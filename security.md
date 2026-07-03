@@ -1,4 +1,4 @@
-<h1 style="color: black; font-size: 2.2em; font-weight: bold; margin-bottom: 30px;">1. Настройка безопасности личного кабинета</h1>
+<h1 style="color: black; font-size: 2.2em; font-weight: bold; margin-bottom: 30px;"><span style="background-color: #FFDAB9; padding: 6px 20px; border-radius: 8px; display: inline-block;">1. Настройка безопасности личного кабинета</span></h1>
 
 <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
