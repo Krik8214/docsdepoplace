@@ -3,3 +3,4 @@
 - [▶️ <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Начало рабочей смены</span>](shift.md)
 - [📊 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Конверсия и обороты</span>](conversion.md)
 - [💳 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Платёжная инфраструктура</span>](payment.md)
+- [💵 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Реквизиты</span>](requisites.md)
