@@ -16,13 +16,16 @@
   <div style="flex: 1.2; min-width: 280px;">
     <p style="color: black; font-size: 1.15em;"><strong>2. Step:</strong> After you have gone to settings, open the "Security" section, click the "Configure" button and set up 2FA:</p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
-      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>①</strong> Scan the QR code, save it in the Google Authenticator app. If you cannot scan the QR code, copy the code offered by your personal account, paste it into the Google Authenticator app, set a name, and save it.</span>
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>①</strong> Scan the QR code, save it in the Google Authenticator app.</span>
     </p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
-      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>②</strong> Then enter the 6-digit code.</span>
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>②</strong> If you cannot scan the QR code, copy the code offered by your personal account, paste it into the Google Authenticator app, set a name, and save it.</span>
     </p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
-      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>③</strong> Click the "Save" button.</span>
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>③</strong> Then enter the 6-digit code.</span>
+    </p>
+    <p style="color: black; font-size: 1.15em; margin-left: 10px;">
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>④</strong> Click the "Save" button.</span>
     </p>
   </div>
   <div style="flex: 0.8; min-width: 220px; text-align: center;">
