@@ -17,7 +17,8 @@
     <p style="font-size: 0.9em; color: #666; margin-top: 3px;">Шаг 3: Сумма / Сумма Пейауты</p>
     <div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px; margin-bottom: 10px;">
       <div>
-        <img src="depo9.png" alt="Шаг 4 — Количество / Количество Пейауты" style="width: 100%; max-width: 200px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <<!-- РАЗМЕР КАРТИНКИ: меняйте значение width -->
+<img src="depo9.png" alt="Шаг 4 — Количество / Количество Пейауты" style="width: 300px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <p style="font-size: 0.9em; color: #666; margin-top: 3px;">Шаг 4: Количество / Количество Пейауты</p>
       </div>
       <div>
