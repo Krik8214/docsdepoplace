@@ -3,4 +3,4 @@
 </h1>
 
 <p style="font-style: italic; color: black; font-size: 1.5em; margin-top: 25px;">Открой для себя новые знания</p>
-<img src="depo1.png" ...> alt="Платформа Depoplace" style="max-width: 100%; display: block; margin-top: 20px;">
+<img src="depo1.png"> alt="Платформа Depoplace" style="max-width: 100%; display: block; margin-top: 20px;">
