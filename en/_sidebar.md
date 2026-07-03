@@ -3,3 +3,4 @@
 - [▶️ <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Starting a Work Shift</span>](shift.md)
 - [📊 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Conversion and Turnover</span>](conversion.md)
 - [💳 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Payment Infrastructure</span>](payment.md)
+- [💵 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Requisites</span>](requisites.md)
