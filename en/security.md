@@ -24,6 +24,9 @@
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
       <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>③</strong> Click the "Save" button.</span>
     </p>
+    <p style="color: black; font-size: 1.15em; margin-left: 10px;">
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>④</strong> If you cannot scan the QR code, copy the code offered by your personal account, paste it into the Google Authenticator app, set a name, and save it. Then copy the code from the app, paste it into your Depoplace personal account, and save it.</span>
+    </p>
   </div>
   <div style="flex: 0.8; min-width: 220px; text-align: center;">
     <img src="../depo3.png" alt="Step 2 — 2FA Setup" style="width: 100%; max-width: 320px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
