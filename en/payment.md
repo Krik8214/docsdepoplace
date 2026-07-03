@@ -29,5 +29,5 @@
 
 <div style="margin-top: 80px; display: flex; justify-content: space-between; border-top: 2px solid #e0e0e0; padding-top: 20px;">
   <a href="#/en/conversion" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">← Back</a>
-  <span style="opacity: 0.4; padding: 10px 20px; font-weight: bold;">Next →</span>
+  <a href="#/en/requisites" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">Next →</a>
 </div>
