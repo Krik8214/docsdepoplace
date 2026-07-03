@@ -16,7 +16,7 @@
     <p style="color: black; font-size: 1.15em; margin-top: 20px;"><strong>📊 Счета</strong> — здесь вы научитесь работать со счетами и отслеживать движения средств.</p>
   </div>
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="depo11.png" alt="Платёжная инфраструктура" style="max-width: 500px; width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="depo11.png" alt="Платёжная инфраструктура" style="max-width: 300px; width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px;">Платёжная инфраструктура</p>
   </div>
 </div>
