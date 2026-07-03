@@ -16,16 +16,13 @@
   <div style="flex: 1.2; min-width: 280px;">
     <p style="color: black; font-size: 1.15em;"><strong>2. Step:</strong> After you have gone to settings, open the "Security" section, click the "Configure" button and set up 2FA:</p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
-      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>①</strong> Scan the QR code, save it in the Google Authenticator app.</span>
+      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>①</strong> Scan the QR code, save it in the Google Authenticator app. If you cannot scan the QR code, copy the code offered by your personal account, paste it into the Google Authenticator app, set a name, and save it.</span>
     </p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
       <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>②</strong> Then enter the 6-digit code.</span>
     </p>
     <p style="color: black; font-size: 1.15em; margin-left: 10px;">
       <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>③</strong> Click the "Save" button.</span>
-    </p>
-    <p style="color: black; font-size: 1.15em; margin-left: 10px;">
-      <span style="background-color: #e9ecef; padding: 3px 8px; border-radius: 4px; border-left: 4px solid #6c757d;"><strong>④</strong> If you cannot scan the QR code, copy the code offered by your personal account, paste it into the Google Authenticator app, set a name, and save it. Then copy the code from the app, paste it into your Depoplace personal account, and save it.</span>
     </p>
   </div>
   <div style="flex: 0.8; min-width: 220px; text-align: center;">
@@ -39,7 +36,8 @@
     Congratulations! You have just made your personal account more secure. Great job!
   </p>
 </div>
+
 <div style="margin-top: 80px; display: flex; justify-content: space-between; border-top: 2px solid #e0e0e0; padding-top: 20px;">
-  <a href="#/en/" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">← Back</span>
- <a href="#/en/shift" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">Next →</a>
+  <a href="#/en/" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">← Back</a>
+  <a href="#/en/shift" style="padding: 10px 20px; background-color: #FFDAB9; border-radius: 6px; color: black; text-decoration: none; font-weight: bold;">Next →</a>
 </div>
