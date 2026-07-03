@@ -1,2 +1,2 @@
 - [🏠 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Главная</span>](/)
-- [🔒 <span style="background-color: #e9ecef; padding: 2px 10px; border-radius: 6px; display: inline-block;">Безопасность личного кабинета</span>](security.md)
+- [🔒 <span style="background-color: #FFDAB9; padding: 2px 10px; border-radius: 6px; display: inline-block;">Безопасность личного кабинета</span>](security.md)
